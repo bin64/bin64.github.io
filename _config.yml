@@ -2,7 +2,13 @@ markdown: kramdown
 permalink: /:title/
 url: https://blog.nayuom.com
 name: blog.nayuom.com
-author: nayuom
+author: n/a
+qq: n/a
+email: n/a
+beian: n/a
+cnzz: n/a
+weibo: n/a
+github: bin64
 safe: true
 paginate: 20
 about: "blog.nayuom.com"
