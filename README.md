@@ -1,4 +1,4 @@
-[Yonsm.NET](https://yonsm.github.io) 的博客
+[blog.nayuom.com](https://blog.nayuom.com) 的博客
 
 本博客运行于 [Jekyll](http://jekyllrb.com) @ [GitHub](http://github.com/Yonsm/Yonsm.github.io)，博客模板修改自 [WebFrog](http://webfrogs.me/) 的博客。本博客模板已经全部通用化，使用极其简单。
 
